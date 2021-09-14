@@ -4326,3 +4326,7 @@ body {
   cursor: pointer;
   float: right;
 }
+
+a {
+  color: rgb(52, 220, 57);
+}
