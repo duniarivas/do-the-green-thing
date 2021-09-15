@@ -1229,7 +1229,7 @@ body.is-touch .container.style3 {
 
 .container.style2.columns > .wrapper > .inner > .full {
   align-self: stretch;
-  min-height: 20rem;
+  min-height: 40rem;
 }
 
 .container.style2.columns > .wrapper > .inner > .full:first-child {
