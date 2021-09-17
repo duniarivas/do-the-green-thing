@@ -181,7 +181,7 @@ em {
 }
 
 code {
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   font-weight: normal;
   text-indent: 0;
   letter-spacing: 0;
@@ -556,7 +556,7 @@ h2.style6,
 h3.style6,
 p.style6 {
   color: #ffffff;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   font-size: 1.25em;
   line-height: 1.5;
   font-weight: 700;
@@ -588,7 +588,7 @@ h2.style3,
 h3.style3,
 p.style3 {
   color: #ffffff;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   letter-spacing: -0.25rem;
   width: 100%;
   font-size: 4.25em;
@@ -622,7 +622,7 @@ h2.style4,
 h3.style4,
 p.style4 {
   color: #ffffff;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   font-size: 1.25em;
   line-height: 1.75;
   font-weight: 300;
@@ -654,7 +654,7 @@ h2.style5,
 h3.style5,
 p.style5 {
   color: rgba(54, 54, 54, 0.388);
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   font-size: 1em;
   line-height: 1.75;
   font-weight: 300;
@@ -686,7 +686,7 @@ h2.style1,
 h3.style1,
 p.style1 {
   color: #363636;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   letter-spacing: -0.125rem;
   width: 100%;
   font-size: 2.5em;
@@ -720,7 +720,7 @@ h2.style2,
 h3.style2,
 p.style2 {
   color: #363636;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   font-size: 1em;
   line-height: 1.75;
   font-weight: 300;
@@ -1764,7 +1764,7 @@ body.is-touch .container.style3 {
   padding: 0 1.5rem;
   text-transform: uppercase;
   font-size: 0.75em;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   letter-spacing: 0.225rem;
   padding-left: calc(0.225rem + 1.5rem);
   font-weight: 400;
@@ -2393,7 +2393,7 @@ form.style1 select,
 form.style1 input[type="checkbox"] + label,
 form.style1 .file {
   font-size: 1em;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   font-weight: 300;
   border-radius: 0.375rem;
 }
@@ -2489,7 +2489,7 @@ form.style1 button {
   padding: 0 1.75rem;
   text-transform: uppercase;
   font-size: 0.75em;
-  font-family: "Indie Flower", cursive;
+  font-family: "Helvetica", cursive;
   letter-spacing: 0.225rem;
   padding-left: calc(0.225rem + 1.75rem);
   font-weight: 400;
